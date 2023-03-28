@@ -1,0 +1,224 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "sddd",
+      "lastName": "ddddssss",
+      "email": "raman@gmail.com",
+      "technology": "devopsss",
+      "id": 1
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "pppppp",
+      "email": "raman@gmail.com",
+      "technology": "raman@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 4
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devopssssss",
+      "id": 5
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "ddddss",
+      "email": "raman@gmail.com",
+      "technology": "devop",
+      "id": 6
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddd",
+      "email": "raman@gmail.com",
+      "technology": "samans",
+      "id": 7
+    },
+    {
+      "firstName": "pam",
+      "lastName": "puriwwsssss",
+      "email": "raman@gmail.com",
+      "technology": "devopsss",
+      "id": 8
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "ddddss",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 9
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 10
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddd",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 12
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddd",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 13
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 14
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 15
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 16
+    },
+    {
+      "firstName": "raman",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 17
+    },
+    {
+      "firstName": "raman",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 18
+    },
+    {
+      "firstName": "raman",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 19
+    },
+    {
+      "firstName": "raman",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "devops",
+      "id": 20
+    },
+    {
+      "firstName": "ramans",
+      "lastName": "singh",
+      "email": "pawan@gmail.com",
+      "technology": "php",
+      "id": 21
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 22
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 23
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 24
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devoppp",
+      "id": 25
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 26
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 27
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 28
+    },
+    {
+      "firstName": "sddd",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 29
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devopss",
+      "id": 30
+    },
+    {
+      "firstName": "pawan",
+      "lastName": "dddds",
+      "email": "raman@gmail.com",
+      "technology": "devops",
+      "id": 31
+    }
+  ]
+}

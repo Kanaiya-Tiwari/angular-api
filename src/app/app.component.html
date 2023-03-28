@@ -1,0 +1,7 @@
+<div class="d-flex justify-content-center align-items-end">
+  <span class=" btn btn-danger" (click)="show()">Add Record</span>
+</div>
+
+<app-form *ngIf="data" [idUpdated]="idUpdated" [fnameUpdated]="fnameUpdated" [lnameUpdated]="lnameUpdated" [emailUpdated]="emailUpdated" [techUpdated]="techUpdated"></app-form> 
+<app-list (onClick)="updateData($event)"></app-list>
+<router-outlet></router-outlet>
